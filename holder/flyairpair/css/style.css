@@ -1,15 +1,11 @@
-// Place all the styles related to the Posts controller here.
-// They will automatically be included in application.css.
-// You can use Sass (SCSS) here: http://sass-lang.com/
-
 body {
   background: url('../images/sky.png') left top repeat-x #4ab0fd !important;
   overflow-x: hidden;
 }
 
-#center {        
+#logo {        
   position: absolute;
-  width: 385px;
+  width: 285px;
   height: 200px;
   top: 35%;
   margin-top: -100px;
