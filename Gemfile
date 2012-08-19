@@ -38,3 +38,7 @@ gem 'jquery-rails'
 # gem 'debugger'
 
 #gem 'activerecord-reputation-system', require: 'reputation_system'
+
+group :development, :test do
+  gem 'rspec-rails',      ">= 2.0.0.beta"
+end
